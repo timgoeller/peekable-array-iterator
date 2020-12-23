@@ -8,6 +8,10 @@
     "iterator",
     "array"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/timgoeller/peekable-array-iterator"
+  },
   "author": "Tim Göller",
   "license": "MIT"
 }
