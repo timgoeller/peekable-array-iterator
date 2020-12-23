@@ -1,0 +1,13 @@
+{
+  "name": "peekable-array-iterator",
+  "version": "1.0.0",
+  "description": "Array iterator containing an iterator for peeking",
+  "main": "index.js",
+  "keywords": [
+    "peek",
+    "iterator",
+    "array"
+  ],
+  "author": "Tim Göller",
+  "license": "MIT"
+}
